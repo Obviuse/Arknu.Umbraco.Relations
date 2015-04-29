@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arknu.Umbraco.Relations.Edi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arknu.Umbraco.Relations", "Arknu.Umbraco.Relations\Arknu.Umbraco.Relations.csproj", "{A66A26E5-A2BC-4939-9598-6474ED2DD42B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuSpec", "NuSpec", "{59E0F158-D4B4-4926-81B2-26919AF8B959}"
+	ProjectSection(SolutionItems) = preProject
+		Arknu.Umbraco.Relations.nuspec = Arknu.Umbraco.Relations.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

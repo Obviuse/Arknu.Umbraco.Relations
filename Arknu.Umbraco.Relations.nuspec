@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Arknu.Umbraco.Relations</id>
+    <version>1.0.0</version>
+    <authors>Arknu</authors>
+    <owners>Arknu</owners>
+    <projectUrl>https://github.com/arknu/Arknu.Umbraco.Relations</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Relations Picker for umbraco cms 7</description>
+  </metadata>
+  <files>
+    <file src="\Arknu.Umbraco.Relations\bin\Arknu.Umbraco.Relations.dll" target="lib"/>
+    <file src="\Arknu.Umbraco.Relations.Editor\Arknu.Umbraco.Relations\*.*" target="content\App_Plugins\Arknu.Umbraco.Relations" />
+  </files>
+</package>
