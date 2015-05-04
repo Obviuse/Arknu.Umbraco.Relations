@@ -10,7 +10,7 @@
     <description>Relations Picker for umbraco cms 7</description>
   </metadata>
   <files>
-    <file src="\bin\Arknu.Umbraco.Relations.dll" target="lib"/>
+    <file src="\Arknu.Umbraco.Relations\bin\Arknu.Umbraco.Relations.dll" target="lib"/>
     <file src="\Arknu.Umbraco.Relations.Editor\Arknu.Umbraco.Relations\*.*" target="content\App_Plugins\Arknu.Umbraco.Relations" />
   </files>
 </package>
